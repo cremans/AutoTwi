@@ -13,6 +13,7 @@ jobs:
       run: |
         cmd /c pip install requests
         cmd /c pip install m3u8
+        cmd /c pip install aiohttp
         cmd /c md "C:\1Twitch"
     - name: Descarga Ejecut
       run: |
