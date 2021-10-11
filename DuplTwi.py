@@ -163,20 +163,20 @@ def main(vodID):
     global lst_nomSim
     
     nom_orig = obtenerNom(vodID)
-    print("Nombre Original: " + nom_orig)
+    os.system("echo Nombre Original: " + nom_orig)
     nom_modf = nom_orig
     for simbolo in lst_nomSim:
         nom_modf = nom_modf.replace(simbolo, lst_nomSim[simbolo])
-    print("Nombre Modificado:  " + nom_modf)
+    os.system("echo Nombre Modificado:  " + nom_modf)
     
     firma, token_cod = solicitarToken(vodID)
     url_frag = obtenerReso(vodID, firma, token_cod)
     lista_frag = obtenerFrag(url_frag)
 
     url_ts = url_frag[:len(url_frag)- url_frag[::-1].index('/')]
-    print("\n-------------------------------------------------")
-    print("URL HLS Fragmentos: " + url_frag)
-    print("URL HLS Base TS: " + url_ts)
+    os.system("echo -------------------------------------------------")
+    os.system("echo URL HLS Fragmentos: " + url_frag)
+    os.system("echo URL HLS Base TS: " + url_ts)
 
     if len(nom_modf + ".mp4") > 203:
         nom_vid = nom_modf[:203] + " [...]"
