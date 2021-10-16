@@ -209,7 +209,7 @@ def main(vodID):
     os.system("echo Nombre Original: " + nom_orig)
     nom_modf = nom_orig
     for simbolo in lst_simb:
-        nom_modf = nom_modf.replace(simbolo, lst_nomSim[simbolo])
+        nom_modf = nom_modf.replace(simbolo, lst_simb[simbolo])
     os.system("echo Nombre Modificado:  " + nom_modf)
     
     firma, token_cod = solicitarToken(vodID)
