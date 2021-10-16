@@ -240,7 +240,7 @@ def main(vodID):
     with open(nom_vid + ".ts", "wb") as arch_ts:
         for i in range(len(lista_frag)):
             with open("./ts/" + str(i) + ".ts", "rb") as fragmento:
-                arch_ts.write(fragmento)
+                arch_ts.write(fragmento.read())
             os.remove("./ts/" + str(i) + ".ts")
     os.system("rd ts")
     
