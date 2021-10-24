@@ -283,7 +283,3 @@ def main(nom_vid, url_vid):
 nombre = 'TortillaLand #5 || Hacemos las misiones y metemos mierda en el pueblo'
 url_vid = "https://d1ymi26ma8va5x.cloudfront.net/413d32e321302cca7340_auronplay_42999733212_1629383372/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
-
-nombre = 'Un ratito de TETONERS y luego TortillaLand'
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/4bdef6a90da64a61559e_auronplay_43010510412_1629469666/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
