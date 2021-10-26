@@ -280,10 +280,6 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'EL DOMINGO VAMOS A DAR EL DEBUT DE MESSI GRATIS DESDE ESTE CANAL + TORTILLALAND #11'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/a84d35d7d0ce5c28f31c_ibai_43066676268_1629918773/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'EL RETORNO DE LA RATA - EVENTO GAMESCOM A LAS 20:00 - MAS BARBUDO Y MORENO QUE NUNCA'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/e87dc9fde2fd2c8d36e3_rubius_43064930204_1629910197/chunked/index-muted-V0H9XMGK6D.m3u8"
+nombre = '>>>>>>>INSERTAR TITULO LLAMATIVO AQUI<<<<<<<<'
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bbeeb28b85e395bca06b_rubius_43087426972_1630085654/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
