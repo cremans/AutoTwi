@@ -280,6 +280,10 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = '>>>>>>>INSERTAR TITULO LLAMATIVO AQUI<<<<<<<<'
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/bbeeb28b85e395bca06b_rubius_43087426972_1630085654/chunked/index-dvr.m3u8"
+nombre = '🐢🐢 ESPECIAL KYLIAN MBAPPÉ 🐢🐢 HOY SE DECIDE TODO'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/19df516de9a656fbb18f_ibai_43115529900_1630325448/chunked/index-muted-PAR3C22WJC.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TORTILLALAND #17 | SOMOS LA MEJOR IGLESIA'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/ae928b1cfd09e068b193_ibai_43158643916_1630696445/chunked/index-muted-2HRK3ZFSQF.m3u8"
 main(nombre, url_vid)
