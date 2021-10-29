@@ -280,10 +280,6 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = '🐢🐢 ESPECIAL KYLIAN MBAPPÉ 🐢🐢 HOY SE DECIDE TODO'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/19df516de9a656fbb18f_ibai_43115529900_1630325448/chunked/index-muted-PAR3C22WJC.m3u8"
-main(nombre, url_vid)
-
-nombre = 'TORTILLALAND #17 | SOMOS LA MEJOR IGLESIA'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/ae928b1cfd09e068b193_ibai_43158643916_1630696445/chunked/index-muted-2HRK3ZFSQF.m3u8"
+nombre = 'ME AFEITO LA BARBA VIKINGA EN DIRECTO NO PUEDO MAS CON ESTO DE SER UN MACHO ALFA CHAD LO SIENTO'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/f90c674ffbee6e81ba06_rubius_43118223916_1630343810/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
