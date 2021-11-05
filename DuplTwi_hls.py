@@ -280,6 +280,6 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'ME AFEITO LA BARBA VIKINGA EN DIRECTO NO PUEDO MAS CON ESTO DE SER UN MACHO ALFA CHAD LO SIENTO'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/f90c674ffbee6e81ba06_rubius_43118223916_1630343810/chunked/index-dvr.m3u8"
+nombre = 'TORNEO MUNDIAL DE NARAKA, EL TRIO DEFICIT OS TRAERA KEYS DEL JUEGO - NOCHE BUENARDA DESPUES uwu #ad'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/4b880c30f5d513027274_rubius_43177132972_1630861500/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
