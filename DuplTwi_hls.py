@@ -280,6 +280,14 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TORNEO MUNDIAL DE NARAKA, EL TRIO DEFICIT OS TRAERA KEYS DEL JUEGO - NOCHE BUENARDA DESPUES uwu #ad'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/4b880c30f5d513027274_rubius_43177132972_1630861500/chunked/index-dvr.m3u8"
+nombre = '[1] TortillaLand #24 || Día de "exploración"'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/0a42de708bdc1b3950aa_auronplay_43232161580_1631371804/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = '[2] TortillaLand #24 || Día de "exploración"'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/c191d27574f37b1662b4_auronplay_43233771148_1631381729/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TortillaLand #30 || Un día más en este amable pueblo'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/c7369dbd4d24886d64c1_auronplay_43286118988_1631889911/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
