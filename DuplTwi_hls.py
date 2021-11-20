@@ -280,14 +280,14 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = '[1] TortillaLand #24 || Día de "exploración"'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/0a42de708bdc1b3950aa_auronplay_43232161580_1631371804/chunked/index-dvr.m3u8"
+nombre = 'TORTILLALAND #30 | SE ACERCA LA PURGA'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/2e12d37adb0d104e6441_ibai_43322955484_1632237477/chunked/index-muted-WY4FYUKPEI.m3u8"
 main(nombre, url_vid)
 
-nombre = '[2] TortillaLand #24 || Día de "exploración"'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/c191d27574f37b1662b4_auronplay_43233771148_1631381729/chunked/index-dvr.m3u8"
+nombre = 'ESTRENANDO EL FIFA 22'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/d083038454b75f933f82_ibai_43325974044_1632255582/chunked/index-muted-2R7CXOH5RS.m3u8"
 main(nombre, url_vid)
 
-nombre = 'TortillaLand #30 || Un día más en este amable pueblo'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/c7369dbd4d24886d64c1_auronplay_43286118988_1631889911/chunked/index-dvr.m3u8"
+nombre = 'GUAU QUIEN ES ESE STREAMER TAN SABROSO? MIRA QUE PECTORALES 😳 Y LAS PATAS 😳😳😳'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/1291c875e2d73530b613_rubius_43325855628_1632254841/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
