@@ -280,14 +280,18 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TORTILLALAND #30 | SE ACERCA LA PURGA'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/2e12d37adb0d104e6441_ibai_43322955484_1632237477/chunked/index-muted-WY4FYUKPEI.m3u8"
+nombre = 'TortillaLand #33 || El regalo de ThiGrefg y POKÉMON UNITE'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/ac28cd0e843a85a40966_auronplay_43331369996_1632319669/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'ESTRENANDO EL FIFA 22'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/d083038454b75f933f82_ibai_43325974044_1632255582/chunked/index-muted-2R7CXOH5RS.m3u8"
+nombre = 'TortillaLand #34 || Abro mi regalo 😎'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/747e658d1bb36d96f3a7_auronplay_43340594108_1632408346/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'GUAU QUIEN ES ESE STREAMER TAN SABROSO? MIRA QUE PECTORALES 😳 Y LAS PATAS 😳😳😳'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/1291c875e2d73530b613_rubius_43325855628_1632254841/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #35 || La purga se aproxima... ☠️.'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/810afb757b713b73f1ec_auronplay_43349759308_1632495471/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TortillaLand #36 || Último día de Tortilla antes de la destrucción'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/af3335eaa46bb6931309_auronplay_43360578636_1632584220/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
