@@ -280,18 +280,10 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TortillaLand #33 || El regalo de ThiGrefg y POKÉMON UNITE'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/ac28cd0e843a85a40966_auronplay_43331369996_1632319669/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #37 .l..l. EVENTO ESPECIAL - LA PURGA'
+url_vid = "https://d1ymi26ma8va5x.cloudfront.net/efd107beb102e44ad1d2_auronplay_43370972556_1632670379/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'TortillaLand #34 || Abro mi regalo 😎'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/747e658d1bb36d96f3a7_auronplay_43340594108_1632408346/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'TortillaLand #35 || La purga se aproxima... ☠️.'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/810afb757b713b73f1ec_auronplay_43349759308_1632495471/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'TortillaLand #36 || Último día de Tortilla antes de la destrucción'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/af3335eaa46bb6931309_auronplay_43360578636_1632584220/chunked/index-dvr.m3u8"
+nombre = '9💔vidas | TortillaLand #5 Y LUEGO ESTRENAMOS FAR CRY 6 CON GRAFICOS EN ULTRA LETS GOUUUUUUU'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/6e5118a7f2041ae48777_rubius_43442593564_1633367063/chunked/index-muted-9AVE8OB14U.m3u8"
 main(nombre, url_vid)
