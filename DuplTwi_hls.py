@@ -280,10 +280,22 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TortillaLand #37 .l..l. EVENTO ESPECIAL - LA PURGA'
-url_vid = "https://d1ymi26ma8va5x.cloudfront.net/efd107beb102e44ad1d2_auronplay_43370972556_1632670379/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #45,5 || Últimos retoques del banco 🧳'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/b5ac3ffc447a2bbcb0dc_auronplay_43466637820_1633618914/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = '9💔vidas | TortillaLand #5 Y LUEGO ESTRENAMOS FAR CRY 6 CON GRAFICOS EN ULTRA LETS GOUUUUUUU'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/6e5118a7f2041ae48777_rubius_43442593564_1633367063/chunked/index-muted-9AVE8OB14U.m3u8"
+nombre = 'ELRUBLOXOMG RANK #1 GAMER EN CUALQUIER VIDEOJUEGO | !nuevovid'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/152348a7cebed3a9e42d_rubius_43468770636_1633633230/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TortillaLand #46 || Otro día más en esta ciudad llena de gente ingrata'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/96e51cb0c3f2b57b5b4b_auronplay_43484518412_1633791460/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TortillaLand #47 || Último día para terminar las construcciones 📈 || !venom'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/08e402b73fa4c591e0bb_auronplay_43493943852_1633877110/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'TortillaLand #48 || Recompensa y nueva misión semanal 🎃'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/4e555bca09cef4d045c9_auronplay_43502256988_1633964436/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
