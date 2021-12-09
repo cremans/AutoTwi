@@ -280,16 +280,12 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TortillaLand #45,5 || Últimos retoques del banco 🧳'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/b5ac3ffc447a2bbcb0dc_auronplay_43466637820_1633618914/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'ELRUBLOXOMG RANK #1 GAMER EN CUALQUIER VIDEOJUEGO | !nuevovid'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/152348a7cebed3a9e42d_rubius_43468770636_1633633230/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
 nombre = 'TortillaLand #46 || Otro día más en esta ciudad llena de gente ingrata'
 url_vid = "https://dgeft87wbj63p.cloudfront.net/96e51cb0c3f2b57b5b4b_auronplay_43484518412_1633791460/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = '7/10💔Vidas | Tortillaland - TERMINANDO MI CASA AL 100% Y LUEGO VARIEDAD Kappa'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/0f289fba377377caa147_rubius_43485956668_1633800660/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
 nombre = 'TortillaLand #47 || Último día para terminar las construcciones 📈 || !venom'
@@ -298,4 +294,8 @@ main(nombre, url_vid)
 
 nombre = 'TortillaLand #48 || Recompensa y nueva misión semanal 🎃'
 url_vid = "https://dgeft87wbj63p.cloudfront.net/4e555bca09cef4d045c9_auronplay_43502256988_1633964436/chunked/index-dvr.m3u8"
+main(nombre, url_vid)
+
+nombre = 'Practicando en solitario ROBLOX: El juego del pulpo'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/5fa31a0349b1ad938353_auronplay_43510621852_1634051138/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
