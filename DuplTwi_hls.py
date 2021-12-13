@@ -280,22 +280,14 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TortillaLand #46 || Otro día más en esta ciudad llena de gente ingrata'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/96e51cb0c3f2b57b5b4b_auronplay_43484518412_1633791460/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #49 || Tortilla sabrosa y después torneo juego del calamardo'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/ea779b60e3d158b97b47_auronplay_43518508252_1634136260/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = '7/10💔Vidas | Tortillaland - TERMINANDO MI CASA AL 100% Y LUEGO VARIEDAD Kappa'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/0f289fba377377caa147_rubius_43485956668_1633800660/chunked/index-dvr.m3u8"
+nombre = 'WORLDS 2021 | DÍA 3 | SE LA JUEGA EUROPA'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/a365b0ad4ac481f8b242_ibai_43517375676_1634122575/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'TortillaLand #47 || Último día para terminar las construcciones 📈 || !venom'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/08e402b73fa4c591e0bb_auronplay_43493943852_1633877110/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'TortillaLand #48 || Recompensa y nueva misión semanal 🎃'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/4e555bca09cef4d045c9_auronplay_43502256988_1633964436/chunked/index-dvr.m3u8"
-main(nombre, url_vid)
-
-nombre = 'Practicando en solitario ROBLOX: El juego del pulpo'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/5fa31a0349b1ad938353_auronplay_43510621852_1634051138/chunked/index-dvr.m3u8"
+nombre = 'TORNEO EL JUEGO DEL CALAMAR ENTRE STREAMERS'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/d644da1864162d9c93ec_ibai_43519218172_1634141962/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
