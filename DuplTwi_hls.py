@@ -280,14 +280,14 @@ def main(nom_vid, url_vid):
                   '.rar" "' + nom_vid + '.mp4"')
 
 
-nombre = 'TortillaLand #49 || Tortilla sabrosa y después torneo juego del calamardo'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/ea779b60e3d158b97b47_auronplay_43518508252_1634136260/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #50 || HAY QUE TRABAJAR POR DIOS'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/f2a4c659c491d39133dc_auronplay_43526676380_1634223700/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'WORLDS 2021 | DÍA 3 | SE LA JUEGA EUROPA'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/a365b0ad4ac481f8b242_ibai_43517375676_1634122575/chunked/index-dvr.m3u8"
+nombre = 'MUNDIAL DE GLOBOS 2021'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/65cab0f700150013ed47_ibai_43527608844_1634231056/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
 
-nombre = 'TORNEO EL JUEGO DEL CALAMAR ENTRE STREAMERS'
-url_vid = "https://dgeft87wbj63p.cloudfront.net/d644da1864162d9c93ec_ibai_43519218172_1634141962/chunked/index-dvr.m3u8"
+nombre = 'TortillaLand #50,5 || Tortilla bien sabrosa y luego otro juego con gente horrorosa'
+url_vid = "https://dgeft87wbj63p.cloudfront.net/e07b6526ee9a9a3b5e2f_auronplay_43534775180_1634311869/chunked/index-dvr.m3u8"
 main(nombre, url_vid)
